@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.nuitdelinfo.com	TRUE	/nuitinfo/	FALSE	1999999999	DokuWiki	le9v1kjr663ftrtumimmbi1v77
+www.nuitdelinfo.com	TRUE	/nuitinfo/	FALSE	1999999999	DWa9ab54ab5d2fd347626efd5cfbb0b2c1	deleted
+.google.com	TRUE	/	FALSE	1999999999	AEC	AakniGO5LnjBIIFgdTzR4wn44fBbapY9n7ndl2SEDs2yfhsCrtPaB7OkxA
+www.google.com	TRUE	/	FALSE	1999999999	SameSite	lax
+
